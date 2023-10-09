@@ -2237,7 +2237,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 }
 .ctsfc:focus{
     --tw-ring-opacity: 1;
-    --tw-ring-color: rgb(199 210 254 / var(--tw-ring-opacity))
+    --tw-ring-color: rgb(249 120 124 / var(--tw-ring-opacity))
 }
 .cifub:focus{
     --tw-ring-opacity: 0.5
