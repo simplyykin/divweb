@@ -1346,7 +1346,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 }
 .cxwxt{
     --tw-border-opacity: 1;
-    border-color:rgb(126 34 206/var(--tw-border-opacity))
+    border-color:rgb(244 67 54/var(--tw-border-opacity))
 }
 .c91qe{
     --tw-border-opacity: 1;
@@ -1369,7 +1369,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 }
 .ciia3{
     --tw-bg-opacity: 1;
-    background-color:rgb(192 132 252/var(--tw-bg-opacity))
+    background-color:rgb(250 132 132/var(--tw-bg-opacity))
 }
 .c33km{
     --tw-bg-opacity: 1;
@@ -1420,7 +1420,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
     --tw-gradient-stops: var(--tw-gradient-from), #fff var(--tw-gradient-via-position), var(--tw-gradient-to)
 }
 .c6mtw{
-    --tw-gradient-to: #e9d5ff var(--tw-gradient-to-position)
+    --tw-gradient-to: #ff9191 var(--tw-gradient-to-position)
 }
 .ch3zp{
     --tw-gradient-to: rgb(226 232 240 / 0.6) var(--tw-gradient-to-position)
@@ -2165,7 +2165,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 }
 .c78tz:hover{
     --tw-text-opacity: 1;
-    color:rgb(192 132 252/var(--tw-text-opacity))
+    color:rgb(250 132 132/var(--tw-text-opacity))
 }
 .cib6f:hover{
     --tw-text-opacity: 1;
