@@ -332,7 +332,7 @@ select{
     --tw-ring-inset: ;
     --tw-ring-offset-width: 0px;
     --tw-ring-offset-color: #fff;
-    --tw-ring-color: rgb(255 114 118 / 0.5);
+    --tw-ring-color: rgb(0 0 0 / 0.5);
     --tw-ring-offset-shadow: 0 0 #0000;
     --tw-ring-shadow: 0 0 #0000;
     --tw-shadow: 0 0 #0000;
@@ -381,7 +381,7 @@ select{
     --tw-ring-inset: ;
     --tw-ring-offset-width: 0px;
     --tw-ring-offset-color: #fff;
-    --tw-ring-color: rgb(255 114 118 / 0.5);
+    --tw-ring-color: rgb(0 0 0 / 0.5);
     --tw-ring-offset-shadow: 0 0 #0000;
     --tw-ring-shadow: 0 0 #0000;
     --tw-shadow: 0 0 #0000;
@@ -659,11 +659,11 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 }
 .cjlj2::-moz-placeholder,.cs51d::-moz-placeholder{
     --tw-placeholder-opacity: 1;
-    color:rgb(255 114 118/var(--tw-placeholder-opacity))
+    color:rgb(0 0 0/var(--tw-placeholder-opacity))
 }
 .cjlj2::placeholder,.cs51d::placeholder{
     --tw-placeholder-opacity: 1;
-    color:rgb(255 114 118/var(--tw-placeholder-opacity))
+    color:rgb(0 0 0/var(--tw-placeholder-opacity))
 }
 .c8z9j{
     padding-right:2.5rem
@@ -1397,8 +1397,8 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
     background-image:linear-gradient(to right,var(--tw-gradient-stops))
 }
 .cpb1t{
-    --tw-gradient-from: #a855f7 var(--tw-gradient-from-position);
-    --tw-gradient-to: rgb(244 67 54 / 0) var(--tw-gradient-to-position);
+    --tw-gradient-from: #ffffff var(--tw-gradient-from-position);
+    --tw-gradient-to: rgb(255 110 110 / 0) var(--tw-gradient-to-position);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to)
 }
 .cr2fi{
@@ -1671,7 +1671,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 }
 .c2v91{
     --tw-text-opacity: 1;
-    color:rgb(255 114 118/var(--tw-text-opacity))
+    color:rgb(0 0 0/var(--tw-text-opacity))
 }
 .ctd13{
     --tw-text-opacity: 1;
