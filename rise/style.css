@@ -1436,7 +1436,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
     fill:currentColor
 }
 .cdjcq{
-    fill:#a855f7
+    fill:#ff0000
 }
 .c64e7{
     fill:#e2e8f0
@@ -1635,11 +1635,11 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
 }
 .c3n3u{
     --tw-text-opacity: 1;
-    color:rgb(79 70 229/var(--tw-text-opacity))
+    color:rgb(255 110 110/var(--tw-text-opacity))
 }
 .cym0n{
     --tw-text-opacity: 1;
-    color:rgb(216 180 254/var(--tw-text-opacity))
+    color:rgb(255 110 110/var(--tw-text-opacity))
 }
 .ct2xv{
     --tw-text-opacity: 1;
@@ -1839,7 +1839,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
     will-change:transform
 }
 .codp6{
-    background:repeating-linear-gradient(90deg,transparent,transparent 48px,#a855f7 48px,#a855f7 49px)
+    background:repeating-linear-gradient(90deg,transparent,transparent 48px,#ff0000 48px,#ff0000 49px)
 }
 .c686l{
     background:repeating-linear-gradient(90deg,transparent,transparent 48px,#fff 48px,#fff 49px)
@@ -2257,7 +2257,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
     transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
 }
 .cxxlx:hover .ca7b4{
-    fill:#a855f7
+    fill:#ff0000
 }
 .c7nu9:hover .cffk1{
     opacity:1
@@ -2292,7 +2292,7 @@ input[type="search"]::-webkit-search-decoration,input[type="search"]::-webkit-se
     outline-color:#9ca3af
 }
 .cw5r2:checked:focus-visible~.cafcq{
-    outline-color:#a855f7
+    outline-color:#ff0000
 }
 @media not all and (min-width:768px){
     .ceghp{
