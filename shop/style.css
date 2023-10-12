@@ -6,6 +6,9 @@ body {
     background-size: cover; /* This will cover the entire viewport */
     background-attachment: fixed; /* Keeps the background fixed as you scroll */
     background-position: center top; /* Centers the image vertically and aligns it to the top horizontally */
+      justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    min-height: 100vh;
 }
 
 .nav-bar {
@@ -31,11 +34,15 @@ body {
 }
 
 .shopfront {
-    display: grid;
-    max-width: 800px;
+        display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+   column-gap: 0px;
+    max-width: 100%;
     padding: 20px;
     text-align: center;
     justify-items: center;
+    margin: 0 auto; /* Center the grid within the available space */
 }
 
 .bold-price {
