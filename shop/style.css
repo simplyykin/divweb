@@ -19,6 +19,9 @@ body {
     padding: 10px 20px;
     backdrop-filter: blur(5px); /* Add a blur to the navigation bar */
 }
+.images {
+     border-radius: 10px;
+}
 
 .home-link, .discord-link {
     text-decoration: none;
