@@ -17,6 +17,7 @@ body {
     background: #fff;
     border-radius: 50%;
     animation: snowfall 5s linear infinite;
+    z-index: 1; /* Set a higher z-index to make snowflakes appear over content */
 }
 
 @keyframes snowfall {
