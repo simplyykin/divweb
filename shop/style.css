@@ -10,6 +10,24 @@ body {
     align-items: center; /* Center content vertically */
     min-height: 100vh;
 }
+.snowflakes {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    animation: snowfall 5s linear infinite;
+}
+
+@keyframes snowfall {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(100vh);
+    }
+}
+
 
 .nav-bar {
     display: flex;
